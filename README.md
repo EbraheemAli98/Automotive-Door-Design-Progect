@@ -17,10 +17,10 @@ _6. GPT Driver._
 
 ## **CAN Message Contents:**
 
-1. Message Idintifier: _each message has an identifier (a number represent the priority of the message), the smaller the identifier the higher the priority._
+1. **Message Idintifier:** _each message has an identifier (a number represent the priority of the message), the smaller the identifier the higher the priority._
 
-2. Data Length code: _it's a bit field (4 bits) decides the number of bytes should be send or received._
+2. **Data Length code:** _it's a bit field (4 bits) decides the number of bytes should be send or received._
 
-3. Identifier Type: _Identifier could be 11-bits (standard identifier) or 29-bits (extended identifier)._
+3. **Identifier Type:** _Identifier could be 11-bits (standard identifier) or 29-bits (extended identifier)._
 
-4. Data: _message data._
+4. **Data:** _message data._
