@@ -1,7 +1,7 @@
 # Automotive-Door-Design-Progect
 _**Videos Link:**_ https://drive.google.com/file/d/1gvdRgVYCka-IY4xmsW0AS1ak9fazuvw-/view?usp=share_link 
 
-**Drivers Shared Between ECU1 and ECU2:**
+##**Drivers Shared Between ECU1 and ECU2:**
 
 _1. CAN Driver._
 
@@ -15,7 +15,7 @@ _5. PORT Driver._
 
 _6. GPT Driver._
 
-**CAN Message Contents:**
+##**CAN Message Contents:**
 
 1. Message Idintifier: _each message has an identifier (a number represent the priority of the message), the smaller the identifier the higher the priority._
 
