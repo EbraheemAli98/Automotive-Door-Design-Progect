@@ -3,17 +3,17 @@ _**Videos Link:**_ https://drive.google.com/file/d/1gvdRgVYCka-IY4xmsW0AS1ak9faz
 
 ## **Drivers Used By Both ECU1 and ECU2:**
 
-_1. CAN Driver._
+1. _CAN Driver._
 
-_2. CanIf Driver._
+2. _CanIf Driver._
 
-_3. BCM Driver._
+3. _BCM Driver._
 
-_4. DIO Driver._
+4. _DIO Driver._
 
-_5. PORT Driver._
+5. _PORT Driver._
 
-_6. GPT Driver._
+6. _GPT Driver._
 
 ## **CAN Message Contents:**
 
